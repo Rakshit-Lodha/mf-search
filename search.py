@@ -7,7 +7,7 @@ import json
 load_dotenv()
 # Initialize clients
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-chroma_client = chromadb.PersistentClient(path="/Users/Rakshit.Lodha/mf-search/chromadb_data")
+chroma_client = chromadb.PersistentClient(path="./chromadb_data")
 collection = chroma_client.get_collection(name="mutual_funds")
 
 def mf_query(text, output = 5):

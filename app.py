@@ -3,7 +3,7 @@ import os
 from dotenv import load_dotenv
 
 # Import your search functions
-from seach import query_router, query_json_conversion
+from search import query_router, query_json_conversion
 
 # Load environment variables
 load_dotenv()
