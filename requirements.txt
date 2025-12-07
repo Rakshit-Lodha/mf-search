@@ -1,0 +1,7 @@
+streamlit
+openai
+chromadb==1.3.4
+pandas
+numpy==1.26.4
+python-dotenv
+tqdm
