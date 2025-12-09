@@ -3,7 +3,7 @@
 Intelligent fund discovery using semantic search and GPT-4o reasoning. 
 Searches 16,000+ Indian mutual funds with natural language queries.
 
-**Live Demo:** [https://mf-search.streamlit.app](https://mf-ai-search.streamlit.app/)
+**Live Demo:** https://mf-ai-search.streamlit.app/
 
 ## Features
 
@@ -62,8 +62,7 @@ Searches 16,000+ Indian mutual funds with natural language queries.
 
 ## Try It
 
-**Live Demo:** [https://mf-search.streamlit.app](https://mf-ai-search.streamlit.app/)
-
+**Live Demo:** https://mf-ai-search.streamlit.app/
 **Example queries:**
 - "Is Parag Parikh Flexi Cap a good fund?"
 - "Compare HDFC Balanced Advantage vs ICICI Prudential Balanced Advantage"
